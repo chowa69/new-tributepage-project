@@ -1,0 +1,151 @@
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+   
+}
+.p1{
+    font-size: xx-large;
+    text-align: left;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 0%;
+    margin-bottom: auto;
+    display: contents;
+    color: white;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.youtube{
+    border-radius: 0%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+.img1{
+    max-width: 50%;
+    padding-bottom: 0%;
+    display: block;
+    margin-left: auto;
+    margin-top: auto;
+    image-resolution:calc(1080);
+    border-radius: 10%;
+    
+}
+
+.links{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.p2{
+    font-size: medium;
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.h2{
+    font-size: medium;
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.p4{
+    font-size: medium;
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    
+}
+
+.section1{
+    background-color: rgb(0, 0, 0);
+    max-width: 100%;
+    display: flex;
+    border: 100%;
+    border-radius: 10%;
+    border-style: ridge;
+}
+
+.section2{
+    background-color: rgb(0, 0, 0);
+    max-width: 100%;
+    border: 100%;
+    border-radius: 10%;
+    border-style: ridge;
+    max-width: 50%;
+    
+}
+.section3{
+    background-color: rgb(0, 0, 0);
+    max-width: 100%;
+    border: 100%;
+    border-radius: 10%;
+    border-style: ridge;
+    max-width: 50%;
+    
+}
+
+.container{
+    display: flex;
+}
+     
+
+
+body{
+    
+    background-color: rgb(84, 3, 3);
+    max-width: 100%;
+    background-image: url(https://cdn.wallpapersafari.com/75/99/3mO7uP.jpg);
+    background-size: 200%; 
+    
+}
+.p5{
+    font-size: medium;
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.youtube{
+    display: block;
+    margin-left: auto;
+    max-width: 95%;
+    border-radius: 19%;
+}
+.img2{
+    max-width: 50%;
+    padding-bottom: 0%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    image-resolution:calc(1080);
+    border-radius: 10%;
+    
+}
+
+a {
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
